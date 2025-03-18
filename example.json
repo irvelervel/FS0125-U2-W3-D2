@@ -1,0 +1,9 @@
+{
+    "firstname": "Giovanni",
+    "lastname": "Storti",
+    "age": 68,
+    "friends": [
+        "Aldo",
+        "Giacomo"
+    ]
+}
